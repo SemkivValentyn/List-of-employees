@@ -1,0 +1,40 @@
+.list-group-item {
+    margin-bottom: 4px;
+    background: #EFF3F5;
+    border-radius: 5px;  
+    width: 100%;
+    box-shadow: 15px 15px 30px rgba(0, 0, 0, .15);
+    padding: 25px;
+    color: #283C5B;
+
+}
+
+.btn {
+    margin-right: 5px;
+}
+
+.list-group-item-input {
+    position: absolute;
+    left: 60%;
+    text-align: right;
+    font-family: inherit;
+    width: 20%;
+    border: 0;
+    outline: 0;
+    font-size: 1.1rem;
+    color: #283C5B;
+    background: transparent;
+}
+
+
+.increase {
+    color: #ED844A;
+}
+
+.increase input {
+    color: #ED844A;
+}
+
+.changeStar {
+    color: #ED844A;
+}
